@@ -1,6 +1,10 @@
-These are updated versions of the Direct3D 9, Direct3D 10, and Direct3D 11 samples from the DirectX SDK June 2010 release.
+These are updated versions of the Direct3D 9 and Direct3D 10 samples from the DirectX SDK June 2010 release.
 
-All samples have been minimally updated to successfully compile and build against Windows 10 and Visual Studio 2015.
+All samples have been minimally updated to successfully compile and build against the latest versions of Windows and Visual Studio.
+
+Updated Direct3D11 samples are available from https://github.com/walbourn/directx-sdk-samples
+
+Current Direct3D samples are available from https://github.com/Microsoft/DirectX-Graphics-Samples
 
 =================
 Table of Contents
