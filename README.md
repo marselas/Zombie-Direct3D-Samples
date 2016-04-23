@@ -371,24 +371,24 @@ You do not need to install the SDK.  You only need to extract the following file
 
 Copy the following header files from the DirectX SDK June 2010 include\ directory, to the include\ directory in the root of the repository.  The readme.txt file in the directory provides these same instructions.
 
-*D3DX10.h
-*d3dx10async.h
-*D3DX10core.h
-*D3DX10math.h
-*D3DX10math.inl
-*D3DX10mesh.h
-*D3DX10tex.h
-*d3dx9.h
-*d3dx9anim.h
-*d3dx9core.h
-*d3dx9effect.h
-*d3dx9math.h
-*d3dx9math.inl
-*d3dx9mesh.h
-*d3dx9shader.h
-*d3dx9shape.h
-*d3dx9tex.h
-*d3dx9xof.h
+* D3DX10.h
+* d3dx10async.h
+* D3DX10core.h
+* D3DX10math.h
+* D3DX10math.inl
+* D3DX10mesh.h
+* D3DX10tex.h
+* d3dx9.h
+* d3dx9anim.h
+* d3dx9core.h
+* d3dx9effect.h
+* d3dx9math.h
+* d3dx9math.inl
+* d3dx9mesh.h
+* d3dx9shader.h
+* d3dx9shape.h
+* d3dx9tex.h
+* d3dx9xof.h
 
 Now, copy the following library files from the DirectX SDK June 2010 lib\ directory, to the lib\ directory in the root of the repository.  The readme.txt files in the lib\ directories provide these same instructions.
 
