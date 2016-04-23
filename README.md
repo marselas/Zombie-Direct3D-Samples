@@ -392,16 +392,16 @@ Copy the following header files from the DirectX SDK June 2010 include\ director
 
 Now, copy the following library files from the DirectX SDK June 2010 lib\ directory, to the lib\ directory in the root of the repository.  The readme.txt files in the lib\ directories provide these same instructions.
 
-*x64\d3dx10.lib
-*x64\d3dx10d.lib
-*x64\d3dx9.lib
-*x64\d3dx9d.lib
-*x64\dxguid.lib
+* x64\d3dx10.lib
+* x64\d3dx10d.lib
+* x64\d3dx9.lib
+* x64\d3dx9d.lib
+* x64\dxguid.lib
 
-*x86\d3dx10.lib
-*x86\d3dx10d.lib
-*x86\d3dx9.lib
-*x86\d3dx9d.lib
-*x86\dxguid.lib
+* x86\d3dx10.lib
+* x86\d3dx10d.lib
+* x86\d3dx9.lib
+* x86\d3dx9d.lib
+* x86\dxguid.lib
 
 Once these files are copied, you can now successfully build and run any of the Direct3D9 samples.
