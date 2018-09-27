@@ -9,12 +9,7 @@ Current Direct3D samples are available from https://github.com/Microsoft/DirectX
 2. Changes
 
 
-====================
-
-1. Build Environment
-
-====================
-
+**1. Build Environment**
 All samples have been updated to the following build environment:
 * Windows 10 RS4
 * Visual Studio 2017 version 15.8.5
@@ -30,11 +25,7 @@ To install the Direct3D Debug Layer:
 * Select and Install: Graphics Tools
 
 
-==========
-
-2. Changes
-
-==========
+**2. Changes**
 The goal of the changes to these samples was to enable them to be successfully built in a modern environment with a minimum number of changes.
 
 General Changes:
