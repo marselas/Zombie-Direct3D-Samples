@@ -1,0 +1,1 @@
+This Direct3D 11 sample shows how to setup and run the Compute Shader, which is one of the most exciting new features of Direct3D 11. The sample implements HDR tone-mapping, blur and bloom using both Compute Shader and traditional Pixel Shader approaches to facilitate comparison.

@@ -1,0 +1,1 @@
+This Direct3D 11 sample shows N-Body particles system implemented using Compute Shader. Because of benefits brought by Compute Shader, this sample achieves significantly higher fps than the previous N-Body sample (NBodyGravity under Direct3D 10 section) which was implemented using Direct3D 10 Pixel Shader and Geometry Shader.

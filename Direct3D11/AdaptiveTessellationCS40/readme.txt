@@ -1,0 +1,2 @@
+This sample demonstrates some adaptive tessellation techniques implemented using Compute Shader 4.0. The tessellation scheme being implemented here is identical to that of DirectX11 triangle patch based tessellation. So potentially this technique here could be a fallback solution for future games or other applications which utilize DirectX11 hardware tessellation when they are running on 10.x only devices, as Compute Shader 4.0 runs on most DirectX 10.x hardware today.
+ 

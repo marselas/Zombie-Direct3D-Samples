@@ -1,0 +1,1 @@
+This sample, contributed by AMD, presents a Direct3D 11 Shader Model 5.0 accelerated technique that uses non-stationary, dynamic-weight matrices for unique per-sample filter weights (these don't necessarily represent a seperable filter) for a contact hardening shadow effect

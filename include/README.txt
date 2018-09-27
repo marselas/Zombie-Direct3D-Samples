@@ -1,9 +1,9 @@
-Download and copy the following files from the DirectX SDK June 2010 to this directory.
+Subset of files from the DirectX SDK June 2010. Just extract the files once you've downloaded it.
 
-https://www.microsoft.com/en-us/download/details.aspx?id=6812
-
-You do not need to install the DirectX SDK June 2010. Just extract the files once you've downloaded it.
-
+include\D3DX11.h
+include\D3DX11async.h
+include\D3DX11core.h
+include\D3DX11tex.h
 include\D3DX10.h
 include\d3dx10async.h
 include\D3DX10core.h

@@ -21,9 +21,9 @@ Table of Contents
 1. Build Environment
 ====================
 All samples have been updated to the following build environment:
-* Windows 10
-* Visual Studio 2015 Update 1
-* Windows 10 SDK 10586
+* Windows 10 RS4
+* Visual Studio 2017 version 15.8.5
+* Windows 10 SDK 10.0.17134.0
 
 Debug versions of the Direct3D10 samples require the installation of the Direct3D Debug Layer. If the Direct3D Debug Layer is not installed, device creation will fail in debug builds due to the use of the debug flag.
 
