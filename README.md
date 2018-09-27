@@ -7,7 +7,9 @@ Updated Direct3D11 samples are available from https://github.com/walbourn/direct
 Current Direct3D samples are available from https://github.com/Microsoft/DirectX-Graphics-Samples
 
 =================
+
 Table of Contents
+
 =================
 1. Build Environment
 2. Changes
