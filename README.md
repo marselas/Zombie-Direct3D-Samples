@@ -1,8 +1,6 @@
-These are updated versions of the Direct3D 9 and Direct3D 10 samples from the DirectX SDK June 2010 release.
+These are updated versions of the Direct3D9, Direct3D10, and Direct3D11 samples from the DirectX SDK June 2010 release.
 
 All samples have been minimally updated to successfully compile and build against the latest versions of Windows and Visual Studio.
-
-Updated Direct3D11 samples are available from https://github.com/walbourn/directx-sdk-samples
 
 Current Direct3D samples are available from https://github.com/Microsoft/DirectX-Graphics-Samples
 
@@ -20,7 +18,9 @@ Table of Contents
 
 
 ====================
+
 1. Build Environment
+
 ====================
 All samples have been updated to the following build environment:
 * Windows 10 RS4
@@ -38,11 +38,11 @@ To install the Direct3D Debug Layer:
 
 
 ==========
+
 2. Changes
+
 ==========
 The goal of the changes to these samples was to enable them to be successfully built in a modern environment with a minimum number of changes.
-
-For the Direct3D9 and Direct3D10 samples, there is still a dependency on the D3DX9 and D3DX10 header files and library files included with the DirectX SDK June 2010.  Information on specific file dependencies and where to copy them in order to build are included below with the instructions for Direct3D9 and Direct3D10.
 
 General Changes:
 * Visual Studio solution and projects upgraded to Visual Studio 2015
